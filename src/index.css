@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Manrope", Verdana, Geneva, Tahoma, sans-serif;
+}
+.container {
+  width: 80%;
+}
+.what-gpt {
+  position: relative;
+}
+.what-gpt::before {
+  content: "";
+  position: absolute;
+  display: block;
+  width: 30px;
+  height: 5px;
+  background: pink;
+  margin-top: -15px;
+}
