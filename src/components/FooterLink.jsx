@@ -1,4 +1,4 @@
-import logo from "./../assets/logo.png";
+import logo from "/assets/logo.png";
 export default function FooterLink() {
   return (
     <div className="flex lg:mt-10 mb-20 justify-center">

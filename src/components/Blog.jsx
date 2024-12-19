@@ -1,8 +1,8 @@
-import blogBigImg from "./../assets/blog-big.png";
-import imgSm1 from "../assets/blog-sm-1.png";
-import imgSm2 from "../assets/blog-sm-2.png";
-import imgSm3 from "../assets/blog-sm-3.png";
-import imgSm4 from "../assets/blog-sm-4.png";
+import blogBigImg from "/assets/blog-big.png";
+import imgSm1 from "/assets/blog-sm-1.png";
+import imgSm2 from "/assets/blog-sm-2.png";
+import imgSm3 from "/assets/blog-sm-3.png";
+import imgSm4 from "/assets/blog-sm-4.png";
 
 import BlogCard from "./BlogCard";
 export default function Blog() {

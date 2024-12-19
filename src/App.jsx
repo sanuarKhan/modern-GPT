@@ -1,4 +1,3 @@
-import UnderContruction from "./UnderContruction";
 import GetStarted from "./components/GetStarted";
 import Register from "./components/Register";
 import WhatGPT from "./components/WhatGPT";
